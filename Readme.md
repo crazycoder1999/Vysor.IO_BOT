@@ -12,8 +12,8 @@ This app allows you to control your android device from your desktop pc installi
 - a daemon on your phone
 - a chrome app/extension
 
-I was interested on how the app worked and the security aspect of having something like this on a smartphone.
-I wrote this hack to explain how you can create a simple bot using vysor and to think about other aspect of this app.  
+I was interested on how the app worked and the security aspects of having something like this on a smartphone.  
+I wrote this hack to explain how you can create a simple bot using vysor.  
 My device is a nexus 5 running android kitkat 4.4.4.
 The script was tested on 29 august.
 
@@ -51,7 +51,7 @@ I'm pretty sure it is possible to create a malicious/stealthy android app with o
 #### Be Aware of the danger
 Vysor.io is an incredible well made app with a lot of interesting technology inside: webgl, h264, websockets.
 I started to reverse engineering it because it is a very good project, really useful for apps testing.    
-I'm not saying "don't use it! it is dangerous" instead, you should be aware of the possible security problems you are exposing your phone.  
+I'm not saying "don't use it! it is dangerous" instead, you should be aware of the possible security problems you are exposing your phone in the future.  
 Personally, I'm using it on an development phone: used only for testing apps.  
 
 #### Any Question? Need Help?
