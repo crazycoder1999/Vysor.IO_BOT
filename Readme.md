@@ -55,5 +55,5 @@ I'm not saying "don't use it! it is dangerous" instead, you should be aware of t
 Personally, I'm using it on an development phone: used only for testing apps.  
 
 #### Any Question? Need Help?
-You can write me on twitter (@dega1999)[https://twitter.com/dega1999]
+You can write me on twitter [@dega1999](https://twitter.com/dega1999)
 
