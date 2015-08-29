@@ -1,6 +1,7 @@
 var WebSocket = require('ws');
 // these are the command sent in startup script
 // wait is a command used only by this script it is not sent to the device.
+// more information on: https://github.com/crazycoder1999/Vysor.IO_BOT
 var setupCmd = [
 	'{ type: "home"}',
 	'{ type: "keychar", keychar: " "}',

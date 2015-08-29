@@ -1,2 +1,4 @@
 
 ClashOfClans_bot/node_modules/ws/.npmignore
+
+*.swp
